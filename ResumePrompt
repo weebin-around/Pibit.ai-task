@@ -1,0 +1,124 @@
+I want you to parse my resume into JSON format. Here is my resume:
+
+Faiza Kashish
+A-3, SN/IG Hall of Residence, IIT Kharagpur-721302
+ +91 9006670099 # faizakashish92@gmail.com ï www.linkedin.com/in/faizakashish § https://github.com/weebin-around
+Education
+Indian Institute of Technology, Kharagpur Dec. 2020 – May 2024
+B.tech in Electrical Engineering CGPA:- 7.17
+Vidya Bharati Chinmaya Vidyalaya May 2018 – May 2020
+AISSCE Percentage:- 93.2
+Valley View School May 2008 – May 2018
+AISSE Percentage:- 95.8
+Experience
+Granules India May 2024 – July 2024
+Data Intern Hyderabad, India
+• Trained a GPT-3.5 based classifier with the objective of detecting the intent behind a query from a list of custom intents
+• Created an advanced RAG based chatbot with dynamic context tracking and updation throughout the conversation
+• Created a knowledge graph of triplets arising from product names and product descriptions to store product data using GPT-4
+• Utilized the graph to make a multiple choice product quiz functionality using fuzzy matching based novel search algorithm
+Mind Harmonics September 2023 – December 2023
+ML Research Intern Remote, India
+• Implemented OpenMax, ODIN, KL Matching and Energy-based methods for unsupervised OOD detection during inference
+• Implemented B-Cos, CAPTUM interpretability algorithms that use Integrated Gradients, GradientShap, Occlusion
+• Created a pipeline which allows the functionality to switch between models, with tuned config files and parameters for each of them
+Indian Institute of Technology May’23 – July’23
+Research Intern Kharagpur, India
+• Preprocessed cerebral MRA images by normalizing intensity, appropriate cropping, padding, applying patch extraction on the data.
+• Trained nnU-net in 4 configurations, 3D low resolution, 3D full resolution, 2D, 3D cascade full resolution with 5-fold validation.
+• Performed postprocessing on predictions by applying masking, connected component analysis, morphological operations
+Edudigm February’23 - May’23
+Data Science Intern Kolkata, India
+• Used Facebook Duckling and GPT-3 Promptify to extract custom entities and intents from a conversation dataset
+• Prepared a response engine with backbone as GPT-3 which did booking for a usecase after extracting all the necessary entities
+• Developed a system for storing and processing PDF files and then creation of vector and keyword-based indexes using Llamaindex
+• Implemented query engines utilizing indexes to identify references,leveraging GPT-3 for generating relevant responses
+Foxmula October’22 - December’22
+Data Science Intern Remote, India
+• Built 3d SfM model from images by identifying covisible images with NetVLAD, matched features with SuperGlue
+• Extracted features from a given query image using SuperPoint, matched features in the database images with SuperGlue
+• Pose estimation was carried out on the query image(2d) with 3d points using Perspective-n-Point(PnP) algorithm
+Fullscore Private Limited March’22 - June’22
+ML Intern Delhi, India
+• Developed, trained an instance segmentation model using YOLOv8 on dataset of OPG, RVG images, to detect abnormalities
+• Created AWS endpoints to deploy trained models, enabling seamless integration, providing a solution for dental analysis
+• Devised a RGT by assigning operators to matching points, concatenating strings, computing hashed values for recurring patterns
+• Utilized the feature importance method in sklearn to shortlist features which should be taken before running the RGT algorithm
+LucidViz December’21 - March’22
+Python Development Intern Bangalore, India
+• Compared models for tumor detection in Image Segmentation & Volumetric Landmark Detection, visualizing on Slicer3D
+• Implemented Python scripts using SimpleITK to preprocess CT images and generated config files for training purposes
+• Designed and implemented data pipelines to ensure smooth data flow between models, with cropping, and thresholding steps
+Skills
+• Languages-C,C++,Python,JavaScript,R,HTML,CSS
+• Analytics-MySQL,MS Excel, Mixpanel, Amplitude, Tableau, Metabase, PowerBI
+• Libraries-Numpy, Pandas, Matplotlib, Seaborn, Plotly, Pytorch, Pyspark, Tensorflow, Keras, Scikit-Learn, NLTK
+• Softwares-Figma, Notion, Confluence, JIRA, Trello, Adobe Illustrator
+
+Projects
+NER Identification Model Self Project
+IIT Kharagpur UG
+· Developed NER model for predicting complex named entities in 11 different languages.
+· Trained multilingual and monolingual tracks separately for all 11 languages.
+· Employed BertForTokenClassification included in the Transformers library by HuggingFace.
+· Achieved an accuracy of 83.7% in the training set and 85.6% in the validation datasets for monolingual NER and achieved an
+accuracy of 81.4% in the training set and 83.6% in the validation datasets for multilingual NER.
+Cyclone Prediction Self Project
+IIT Kharagpur UG
+· Engineered a cyclone prediction model using neural networks, demonstrating proficiency in designing complex deep learning
+architectures.
+· Implemented backtracking techniques to enhance the accuracy and robustness of the cyclone prediction system,showcasing
+problem-solving skills in dynamic environments
+· Leveraged real-time data streams for cyclone prediction, illustrating the ability to make informed decisions through data
+analysis and machine learning techniques.
+Application of ADAM-based Deep Neural Network (ADNN) in Prediction of Occupational Incidents Project
+IIT Kharagpur UG
+· Adaptive Moment Estimation (ADAM) along with Root Mean Square Propagation (RMSProp), and Stochastic
+Gradient Descent (SGD) was used for optimizing the parameters of DNN to predict the outcomes.
+· Research Paper authored and submitted to Neuro-computing.
+Optimization based Decision Tree Algorithm for predicting Slip-Trip-Fall accidents at work Project
+IIT Kharagpur UG
+· Accidents data along with unstructured text data were analysed to predict Slip-Trip-Fall accidents using Latent Dirichlet
+Allocation (LDA) for text analysis, GA and PSO optimized Random Forest (RF), Classification and Reression Trees
+(CART) and C5.0.
+Application of Optimized Machine Learning Techniques for Prediction of Occupational Accidents Project
+IIT Kharagpur UG
+· Both categorical data and unstructured text data were analysed to predict the incident outcomes using Genetic Algorithm
+(GA) and Particle Swarm Optimization (PSO) optimized Support Vector Machines (SVM) and Artificial Neural
+Network (ANN).
+Awards & Achievements
+· Secured an All India Rank of 8498 out of approximately 2.5 lakh (250,000) participants in the JEE Advanced 2020
+· Secured an All India Rank of 8467 out of approximately 9.34 lakh (934,000) participants in the JEE Mains (2020)
+examination.
+· Attained the third position in National Creativity Olympiad in 2019 among 200 team
+· Ranked top 132 out of 56000+ participants in Accenture’s Coding Challenge, showcasing exceptional algorithmic, and
+coding skills
+Leadership / Extracurricular
+· Selected as a member of Pravah-Hindi Technology Dramatics Society of IIT Kharagpur in 2020
+· Performed in the online Freshers Production and the Annual Production in the year 2021
+· Actively participated in grooming freshers for performing dramatics.
+· Worked on diverse projects undertaken by the English media body in order to bring to light various happenings on campus
+affecting the masses as the assistant editor of The Scholars’ Avenue
+· Member of NCA-National Cultural Appreciation, selected from a pool of 1500 candidates
+Relevant Coursework
+· Probability and Statistics
+· Machine Learning Specialization
+· Deep learning Specialization
+· Programming and Data Structures
+· Digital Electronic Circuits
+· Computer Architecture and Operating Systems
+
+Please extract the following information and format it as JSON:
+- Name
+- Contact Information
+- Summary
+- Education (including degrees, institutions, and dates)
+- Work Experience (including roles, companies, and dates)
+- Skills
+- Projects
+- Certifications
+- Awards
+- Leadership and Extracurricular Activities
+- Relevant Coursework
+
+Output the parsed content in a structured JSON format.
