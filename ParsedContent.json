@@ -4,7 +4,7 @@
     "email": "faizakashish92@gmail.com",
     "phone": "+91 9006670099",
     "address": "And, SN/IG Hall of Residence, IIT Kharagpur-721302"
-  },
+  }
   "summary": "Recent graduate from IIT Kharagpur with a B.Tech in Electrical Engineering and experience in data science and machine learning.",
   "education": [
     {
@@ -30,12 +30,44 @@
     {
       "role": "Data Intern",
       "company": "Granules India",
-      "dates": "May 2024 – July 2024"
+      "dates": "May 2024 – July 2024",
+      "description": "Developed a sustainability site for data entry from various plants, using SQL in the backend."
     },
     {
       "role": "ML Research Intern",
       "company": "Mind Harmonics",
-      "dates": "September 2023 – December 2023"
+      "dates": "September 2023 – December 2023",
+      "description": "Conducted research on machine learning models for various applications."
+    },
+    {
+      "role": "Research Intern",
+      "company": "Indian Institute of Technology",
+      "dates": "May 2023 – July 2023",
+      "description": "Worked on research projects related to machine learning and data science."
+    },
+    {
+      "role": "Data Science Intern",
+      "company": "Edudigm",
+      "dates": "February 2023 – May 2023",
+      "description": "Applied data science techniques to educational data."
+    },
+    {
+      "role": "Data Science Intern",
+      "company": "Foxmula",
+      "dates": "October 2022 – December 2022",
+      "description": "Worked on data science projects involving machine learning models."
+    },
+    {
+      "role": "ML Intern",
+      "company": "Fullscore Private Limited",
+      "dates": "March 2022 – June 2022",
+      "description": "Developed and optimized machine learning algorithms."
+    },
+    {
+      "role": "Python Development Intern",
+      "company": "LucidViz",
+      "dates": "December 2021 – March 2022",
+      "description": "Worked on Python development projects."
     }
   ],
   "skills": [
@@ -74,8 +106,9 @@
   "projects": [
     "NER Identification Model",
     "Cyclone Prediction",
-    "Application of ADAM-based Deep Neural Network in Prediction of Occupational Incidents",
-    "Optimization based Decision Tree Algorithm for predicting Slip-Trip-Fall accidents at work"
+    "Application of ADAM-based Deep Neural Network (ADNN) in Prediction of Occupational Incidents",
+    "Optimization based Decision Tree Algorithm for predicting Slip-Trip-Fall accidents at work",
+    "Application of Optimized Machine Learning Techniques for Prediction of Occupational Accidents"
   ],
   "certifications": [],
   "awards": [
