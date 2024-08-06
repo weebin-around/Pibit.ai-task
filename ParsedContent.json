@@ -1,0 +1,100 @@
+{
+  "name": "Faiza Kashish",
+  "contact_information": {
+    "email": "faiza@example.com",
+    "phone": "123-456-7890",
+    "address": "123 Street, City, Country"
+  },
+  "summary": "Recent graduate from IIT Kharagpur with a B.Tech in Electrical Engineering and experience in data science and machine learning.",
+  "education": [
+    {
+      "degree": "B.Tech in Electrical Engineering",
+      "institution": "IIT Kharagpur",
+      "dates": "Dec 2020 – May 2024",
+      "cgpa": 7.17
+    },
+    {
+      "degree": "AISSCE",
+      "institution": "Vidya Bharati Chinmaya Vidyalaya",
+      "dates": "May 2018 – May 2020",
+      "percentage": 93.2
+    },
+    {
+      "degree": "AISSE",
+      "institution": "Valley View School",
+      "dates": "May 2008 – May 2018",
+      "percentage": 95.8
+    }
+  ],
+  "work_experience": [
+    {
+      "role": "Data Intern",
+      "company": "Granules India",
+      "dates": "May 2024 – July 2024"
+    },
+    {
+      "role": "ML Research Intern",
+      "company": "Mind Harmonics",
+      "dates": "September 2023 – December 2023"
+    }
+  ],
+  "skills": [
+    "C",
+    "C++",
+    "Python",
+    "JavaScript",
+    "R",
+    "HTML",
+    "CSS",
+    "MySQL",
+    "MS Excel",
+    "Mixpanel",
+    "Amplitude",
+    "Tableau",
+    "Metabase",
+    "PowerBI",
+    "Numpy",
+    "Pandas",
+    "Matplotlib",
+    "Seaborn",
+    "Plotly",
+    "Pytorch",
+    "Pyspark",
+    "Tensorflow",
+    "Keras",
+    "Scikit-Learn",
+    "NLTK",
+    "Figma",
+    "Notion",
+    "Confluence",
+    "JIRA",
+    "Trello",
+    "Adobe Illustrator"
+  ],
+  "projects": [
+    "NER Identification Model",
+    "Cyclone Prediction",
+    "Application of ADAM-based Deep Neural Network in Prediction of Occupational Incidents",
+    "Optimization based Decision Tree Algorithm for predicting Slip-Trip-Fall accidents at work"
+  ],
+  "certifications": [],
+  "awards": [
+    "Secured an All India Rank of 8498 in JEE Advanced 2020",
+    "Secured an All India Rank of 8467 in JEE Mains 2020",
+    "Attained the third position in National Creativity Olympiad 2019",
+    "Ranked top 132 out of 56000+ participants in Accenture’s Coding Challenge"
+  ],
+  "leadership_and_extracurricular_activities": [
+    "Member of Pravah-Hindi Technology Dramatics Society of IIT Kharagpur",
+    "Assistant editor of The Scholars’ Avenue",
+    "Member of National Cultural Appreciation (NCA)"
+  ],
+  "relevant_coursework": [
+    "Probability and Statistics",
+    "Machine Learning Specialization",
+    "Deep Learning Specialization",
+    "Programming and Data Structures",
+    "Digital Electronic Circuits",
+    "Computer Architecture and Operating Systems"
+  ]
+}
